@@ -91,4 +91,3 @@ foreach ($ignoreString in $ignoreStrings) {
 }
 
 $existingContent | Set-Content $gitignorePath
-
